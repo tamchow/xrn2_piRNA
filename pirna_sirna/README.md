@@ -1,0 +1,1 @@
+# Pipeline for identification of piRNAs, piRNA precursors, and siRNAs from small RNA-Seq data (.fq.gz)
